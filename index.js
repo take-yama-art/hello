@@ -75,7 +75,7 @@ const report = [
 
 //console.log(report_label)
 
-// map 関数
+// map 関数 
 const report_label = report.map((el) => {
   // el:配列の要素
   console.log(el)
